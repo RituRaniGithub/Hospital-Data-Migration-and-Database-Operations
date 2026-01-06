@@ -1,8 +1,7 @@
 # Hospital Data Migration and Operation System using MySQL
 
 ## Project Overview
-The goal of this project was to convert hospital data maintained in spreadsheets into a structured SQL database and fix common operational issues such as duplicate doctor appointments, missing data links, and limited reporting capability.
-
+The goal of this project was to convert hospital data, currently maintained in spreadsheets, into a structured SQL database and address common operational issues, including duplicate doctor appointments, missing data links, and limited reporting capabilities.
 
 ## Problem Statement
 Hospitals often begin by storing operational data such as patient records, doctor schedules, appointments, and billing information in spreadsheets.
@@ -29,16 +28,6 @@ By moving from spreadsheets to a relational database system:
 4. Management can make informed decisions using structured financial insights.
 
 ## Database Design
-**Core Entities:**
-- Department
-- Doctor
-- Patients
-- Appointments
-- Prescriptions
-- Bills
-- Lab Reports
-
-Foreign key constraints ensure referential integrity across the system.
 <img width="1192" height="691" alt="ER_Diagram" src="https://github.com/user-attachments/assets/99b22c5d-cb6e-451b-a484-ec8ad3c9a288" />
 
 
