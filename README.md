@@ -39,5 +39,6 @@ By moving from spreadsheets to a relational database system:
 - Lab Reports
 
 Foreign key constraints ensure referential integrity across the system.
+<img width="1192" height="691" alt="ER_Diagram" src="https://github.com/user-attachments/assets/99b22c5d-cb6e-451b-a484-ec8ad3c9a288" />
 
 
